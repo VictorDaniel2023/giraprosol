@@ -9,35 +9,19 @@
   height: 100vh;
 }
 
-#product .product {
-  margin: 20px;
+#product  {
+  margin-block: 80px;
+}
+
+#product .img_product {
+  width: 300px;
   height: 600px;
-  background-color: blue;
-  padding: 20px;
 }
 
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  width: 700px;
-  background: orangered repeat-x;
-  float: left;
+#menu-inicial {
+  background: orangered;
 }
 
-ul li {
-  float: left;
-}
-
-ul a {
-  display: block;
-  padding: 0 2em;
-  line-height: 2em;
-  text-decoration: none;
-  color: white;
-}
-
-ul a:hover {
-  color: black;
-  background: yellow;
+footer {
+  background: orangered;
 }
